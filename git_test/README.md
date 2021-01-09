@@ -1,3 +1,1 @@
-# Git Commands
-
-### Getting back in the game.
+This is william's first git project!.
